@@ -1,2 +1,2 @@
 # Williams-lab-website
-new lab website ~in progress~
+new lab website in progress!
